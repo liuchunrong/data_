@@ -13,6 +13,7 @@ public class BackTest {
 
     public void backMethod(int n){
 //        StringBuilder sb=new StringBuilder();
+        //
         int[] arr=new int[n];
         queen=new int[n];
         for (int i=0;i<n;i++){
